@@ -1,0 +1,43 @@
+<style>
+    #header {
+        font-family: Tahoma, sans-serif;
+        width: 100%;
+    }
+
+    #issues{
+        font-family: Tahoma, sans-serif;
+        width: 100%;
+    }
+
+    #issues td, #issues th {
+        border: 1px solid #ddd;
+        padding: 8px;
+    }
+
+    #issues tr:nth-child(even){
+        background-color: #f2f2f2;
+    }
+
+    #issues tr:hover {
+        background-color: #ddd;
+    }
+
+    #issues th {
+        text-align: center;
+        background-color: #4287f5;
+        color: white;
+    }
+</style>
+
+<table id="issues">
+    <tr>
+        <th>Key</th>
+        <th>Summary</th>
+    </tr>
+    {{#lookupIssues}}
+    <tr>
+        <td>{{key}}</td>
+        <td>{{summary}}</td>
+    </tr>
+    {{/}}
+</table>

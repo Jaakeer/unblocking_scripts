@@ -1,0 +1,11 @@
+('Internal Box 1', 25, 21, 27.5, 4),
+('Internal Box 2', 50, 47, 27, 18), 
+('Internal Box 3', 20, 27, 17, 4), 
+('Internal Box 4', 50, 47, 22, 18), 
+('Internal Box 5', 68, 50, 30, 30), 
+('Internal Box 6', 56, 41, 60, 60), 
+('Internal Box 7', 30, 20, 30, 16), 
+('Internal Box 8', 46, 21, 32, 20), 
+('Internal Box 9', 23, 14, 19, 10), 
+('Internal Box 10', 37, 21, 5, 5), 
+('Internal Box 11', 21, 16, 32, 6)

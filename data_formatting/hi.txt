@@ -1,0 +1,21 @@
+
+"BZ-SKU-0012982", "BZ-SKU-0013523", "BZ-SKU-0013528", "BZ-SKU-0013560", "BZ-SKU-0013561", "BZ-SKU-0014989", "BZ-SKU-0014994", "BZ-SKU-0014995", "BZ-SKU-0014986"
+
+
+
+"---\nvalue:\n- '100'\n- '1'\nupdated_at:\n- 2019-07-01 15:03:54.624184000 Z\n- 2020-03-16 13:05:41.427967876 Z\n"
+"---\nvalue:\n- '54'\n- '1'\nupdated_at:\n- 2019-11-27 13:41:07.515332000 Z\n- 2020-03-16 13:05:41.467739663 Z\n"
+"---\nvalue:\n- '200'\n- '1'\nupdated_at:\n- 2019-07-01 15:11:43.045884000 Z\n- 2020-03-16 13:05:41.494193740 Z\n"
+"---\nvalue:\n- '32'\n- '1'\nupdated_at:\n- 2019-11-27 13:41:07.472988000 Z\n- 2020-03-16 13:05:41.515998461 Z\n"
+"---\nvalue:\n- '46'\n- '1'\nupdated_at:\n- 2019-11-27 13:41:07.385023000 Z\n- 2020-03-16 13:05:41.541081106 Z\n"
+"---\nvalue:\n- '200'\n- '1'\nupdated_at:\n- 2019-08-15 16:49:46.556568000 Z\n- 2020-03-16 13:05:41.562603567 Z\n"
+"---\nvalue:\n- '200'\n- '1'\nupdated_at:\n- 2019-08-15 16:49:46.385808000 Z\n- 2020-03-16 13:05:41.583686626 Z\n"
+"---\nvalue:\n- '200'\n- '1'\nupdated_at:\n- 2019-08-15 16:49:46.423318000 Z\n- 2020-03-16 13:05:41.601968850 Z\n"
+"---\nvalue:\n- '200'\n- '1'\nupdated_at:\n- 2019-08-15 16:49:46.710867000 Z\n- 2020-03-16 13:05:41.620378874 Z\n"
+
+IMPORTANT!!!
+
+
+#<ActionMailer::DeliveryJob:0x0000561d1959d210
+@arguments=["ClickpostErrorMailer", "send_clickpost_error", "deliver_now",
+"Bad Request : No Awb Exist In The System", 146978], @job_id="5c3ee9ff-5685-4947-b901-1d1c7f806f8f", @queue_name="mailers", @priority=nil, @executions=0, @provider_job_id="b43632db5ed54adec218681d">
